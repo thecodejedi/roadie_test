@@ -78,3 +78,7 @@ Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/L
 Please report sensitive security issues using Spotify's [bug-bounty program](https://hackerone.com/spotify) rather than GitHub.
 
 For further details, see our complete [security release process](SECURITY.md).
+
+## How to get Started
+
+In order to get started you need to call the API: [HTTP GET /api/sendungenAPI/]()
