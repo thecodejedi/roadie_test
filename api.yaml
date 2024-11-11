@@ -7,4 +7,5 @@ spec:
   type: openapi
   lifecycle: production
   owner: team-name
-  definition: https://rackerlabs.github.io/wadl2swagger/openstack/swagger/identity.json
+  definition: |
+    $ref: https://rackerlabs.github.io/wadl2swagger/openstack/swagger/identity.json
