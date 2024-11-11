@@ -8,4 +8,4 @@ spec:
   lifecycle: production
   owner: team-name
   definition: |
-    $ref: https://rackerlabs.github.io/wadl2swagger/openstack/swagger/identity.json
+    $ref: https://raw.githubusercontent.com/readmeio/oas-examples/refs/heads/main/3.0/json/petstore.json
